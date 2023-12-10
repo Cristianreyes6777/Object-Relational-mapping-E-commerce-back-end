@@ -24,8 +24,8 @@ This repository serves as the back end for an e-commerce website, powered by Exp
 This project utilizes technologies such as Express.js, Sequelize, and MySQL for creating a robust e-commerce back end.
 
 
-## Screenshots and Videos
 
+## Getting Started
 
 To get started with this project, follow these steps:
 
@@ -39,8 +39,8 @@ To get started with this project, follow these steps:
 
 
 
+## Screenshots and Videos
 
-## Getting Started
 
 
 
@@ -59,6 +59,13 @@ This back end provides API routes for categories, products, and tags. You can us
 
 ## Sources
 
+https://www.youtube.com/watch?v=geB_9Ib9YhY
+
+https://www.youtube.com/watch?v=hGVJLTGqPgk
+
+https://www.youtube.com/watch?v=ewoB_naRMlg
+
+https://www.youtube.com/watch?v=3EvhK7-DlZA
 
 
 ## Contact
